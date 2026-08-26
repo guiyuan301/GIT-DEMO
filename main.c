@@ -2,6 +2,6 @@
 int main(int argc, char const *argv[])
 {
     printf("hello! githubgoood!\n");
-    //sh
+    // 登录
     return 0;
 }
